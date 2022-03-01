@@ -19,7 +19,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://jbutlerola-advice-generator.netlify.app)
+- Live Site URL: [Here] (https://jbutlerola-advice-generator.netlify.app)
 
 ## My process
 
@@ -33,7 +33,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ## Author
 
-- Website - [Add your name here](https://jackbutler.dev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jbutlerola)
+- Website - [Jack Butler](https://jackbutler.dev)
+- Frontend Mentor - [@jbutlerola](https://www.frontendmentor.io/profile/jbutlerola)
 
 
