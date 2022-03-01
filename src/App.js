@@ -8,12 +8,16 @@ function App() {
   const [text, setText] = useState([])
 
   const fetchAdvice = async () => {
-    const res = await fetch("https://api.adviceslip.com/advice")
-    const data = await res.json()
-
-    console.log(data);
-
-    setText(data.slip)
+    try {
+      const res = await fetch("https://api.adviceslip.com/advice")
+      const data = await res.json()
+  
+      console.log(data);
+  
+      setText(data.slip)
+    } catch (err) {
+      console.log(err);
+    }
   }
 
   useEffect(() => {
