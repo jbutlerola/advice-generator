@@ -10,8 +10,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [Author](#author)
 
 
-- 
-
 ### Screenshot
 
 ![](./src/images/screenshot.png)
@@ -19,7 +17,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [Here] (https://jbutlerola-advice-generator.netlify.app)
+- Live Site URL: (https://jbutlerola-advice-generator.netlify.app)
 
 ## My process
 
